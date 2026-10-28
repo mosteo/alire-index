@@ -1,0 +1,17 @@
+name = "diskflags"
+description = "Manage small files to flag conditions"
+version = "0.1.0-dev"
+
+authors = ["Alejandro R. Mosteo"]
+maintainers = ["Alejandro R. Mosteo <alejandro@mosteo.com>"]
+maintainers-logins = ["mosteo"]
+licenses = "MIT"
+website = ""
+tags = ["flag", "disk", "file"]
+
+[[test]]
+runner = "alire"
+
+[origin]
+commit = "af119105e677e64aa79e53e22a824cc0a510476e"
+url = "git+https://github.com/mosteo/diskflags.git"
